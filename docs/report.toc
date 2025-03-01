@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Objectives and Scope}{3}{section.2}%
+\contentsline {section}{\numberline {3}Implementation Details}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Multi-Threading Implementation (Project A)}{3}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Phase 1: Basic Thread Operations}{4}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Phase 2: Resource Protection}{4}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Phase 3: Deadlock Creation}{5}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}Phase 4: Deadlock Resolution}{6}{subsubsection.3.1.4}%
+\contentsline {subsubsection}{\numberline {3.1.5}Unit Testing for Multi-Threading}{7}{subsubsection.3.1.5}%
+\contentsline {subsection}{\numberline {3.2}Inter-Process Communication (Project B)}{9}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Environment Setup and Tool Usage}{12}{section.4}%
+\contentsline {section}{\numberline {5}Challenges and Solutions}{12}{section.5}%
+\contentsline {section}{\numberline {6}Results and Outcomes}{12}{section.6}%
+\contentsline {section}{\numberline {7}Reflection and Learning}{13}{section.7}%
+\contentsline {section}{\numberline {8}References}{13}{section.8}%
